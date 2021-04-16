@@ -1,4 +1,3 @@
-// http://jeffreythompson.org/collision-detection/index.php
 class Collision {
   boolean pointPoint(Point p1, Point p2) {
     return (p1.x==p2.x&&p1.y==p2.y);
